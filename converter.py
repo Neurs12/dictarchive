@@ -1,3 +1,7 @@
+"""
+A script to convert the exported Linguae sqlite file format to Dict Archive compatible format.
+"""
+
 import sqlite3
 
 conn = sqlite3.connect(input())
