@@ -3,54 +3,63 @@
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/en-vi.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/en-vi.sqlite",
-    "pack_name": "English - Vietnamese"
+    "pack_name": "English - Vietnamese",
+    "pack_size": "21MB"
   },
   "fr-vi": {
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/fr-vi.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/fr-vi.sqlite",
-    "pack_name": "France - Vietnamese"
+    "pack_name": "France - Vietnamese",
+    "pack_size": "11MB"
   },
   "de-vi": {
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/du-vi.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/du-vi.sqlite",
-    "pack_name": "German - Vietnamese"
+    "pack_name": "German - Vietnamese",
+    "pack_size": "14MB"
   },
   "no-vi": {
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/no-vi.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/no-vi.sqlite",
-    "pack_name": "Norwegian - Vietnamese"
+    "pack_name": "Norwegian - Vietnamese",
+    "pack_size": "9MB"
   },
   "ru-vi": {
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/ru-vi.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/ru-vi.sqlite",
-    "pack_name": "Russian - Vietnamese"
+    "pack_name": "Russian - Vietnamese",
+    "pack_size": "11MB"
   },
   "vi-en": {
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/vi-en.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/vi-en.sqlite",
-    "pack_name": "Vietnamese - English"
+    "pack_name": "Vietnamese - English",
+    "pack_size": "3MB"
   },
   "vi-fr": {
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/vi-fr.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/vi-fr.sqlite",
-    "pack_name": "Vietnamese - France"
+    "pack_name": "Vietnamese - France",
+    "pack_size": "6MB"
   },
   "vi-de": {
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/vi-du.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/vi-du.sqlite",
-    "pack_name": "Vietnamese - German"
+    "pack_name": "Vietnamese - German",
+    "pack_size": "1MB"
   },
   "vi-vi": {
     "contributor": "Neurs12",
     "license": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/vi-vi.LICENSE",
     "dict_pack": "https://github.com/Neurs12/dictarchive/releases/download/v1.0-Lang/vi-vi.sqlite",
-    "pack_name": "Vietnamese - Vietnamese"
+    "pack_name": "Vietnamese - Vietnamese",
+    "pack_size": "6MB"
   }
 }
