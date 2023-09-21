@@ -1,1 +1,56 @@
-
+{
+  "en-vi": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "English - Vietnamese"
+  },
+  "fr-vi": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "France - Vietnamese"
+  },
+  "de-vi": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "German - Vietnamese"
+  },
+  "no-vi": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "Norwegian - Vietnamese"
+  },
+  "ru-vi": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "Russian - Vietnamese"
+  },
+  "vi-en": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "Vietnamese - English"
+  },
+  "vi-fr": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "Vietnamese - France"
+  },
+  "vi-de": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "Vietnamese - German"
+  },
+  "vi-vi": {
+    "contributor": "",
+    "copyright": "",
+    "lang_database": "",
+    "pack_name": "Vietnamese - Vietnamese"
+  }
+}
